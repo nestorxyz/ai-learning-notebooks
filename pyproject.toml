@@ -9,6 +9,11 @@ readme = "README.md"
 python = "3.9.4"
 jupyter = "^1.0.0"
 ipykernel = "^6.25.2"
+langchain = "^0.0.305"
+unstructured = "^0.10.18"
+markdown = "^3.4.4"
+sentence-transformers = "^2.2.2"
+chromadb = "^0.4.13"
 
 
 [build-system]
