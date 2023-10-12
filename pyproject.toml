@@ -15,6 +15,9 @@ markdown = "^3.4.4"
 sentence-transformers = "^2.2.2"
 chromadb = "^0.4.13"
 datasets = "^2.14.5"
+evaluate = "^0.4.0"
+accelerate = "^0.23.0"
+transformers = {extras = ["torch"], version = "^4.34.0"}
 
 
 [build-system]
