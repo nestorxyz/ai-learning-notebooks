@@ -262,3 +262,8 @@ $RECYCLE.BIN/
 
 # trainings
 transfer-course-distilroberta-base-mrpc-glue-nestor-mamani
+
+# models end in .model
+*.model
+*.npy
+
